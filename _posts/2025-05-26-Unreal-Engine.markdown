@@ -7,6 +7,4 @@ alt: image-alt
 project-date: May 2025
 client: Start Bootstrap
 category: Unreal-Engine
-25.05.26
-
 ---
