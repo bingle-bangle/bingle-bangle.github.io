@@ -2,8 +2,10 @@
 layout: post
 title: "언리얼 엔진 캐릭터"
 modal-id: unreal         
-img: unreal_char.png      
-alt: "Unreal Engine 캐릭터 구현"
+<img 
+  src="img/portfolio/{{ post.img | default: 'placeholder.png' }}"
+  alt="{{ post.alt | default: '포트폴리오 이미지' }}"
+  class="img-responsive">
 categories: Unreal-Engine
 ---
 
