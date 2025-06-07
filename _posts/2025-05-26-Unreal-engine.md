@@ -3,7 +3,7 @@ layout: post
 title: "언리얼 엔진 캐릭터"
 date: 2025-05-26
 modal-id: unreal         
-img: unreal
+img: unreal.png
 alt: "언리얼 엔진 구현"
 categories: Unreal-Engine
 ---
