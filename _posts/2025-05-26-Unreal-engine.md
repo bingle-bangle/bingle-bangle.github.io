@@ -1,12 +1,14 @@
---
-layout: post
-title: "언리얼 엔진 캐릭터"
-date: 2025-05-26
-modal-id: unreal         
-img: unreal.png
-alt: "언리얼 엔진 구현"
-categories: Unreal-Engine
 ---
+layout: post
+modal-id: 1
+date: 2025-05-26
+img: unreal.png
+alt: image-alt
+project-date: May 2025
+client: Start Bootstrap
+category: Unreal-Engine
+---
+
 
 25.05.26
 
