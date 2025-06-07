@@ -7,9 +7,6 @@ alt: image-alt
 project-date: May 2025
 client: Start Bootstrap
 category: Unreal-Engine
----
-
-
 25.05.26
 
 처음으로 언리얼 엔진에 대해서 다뤄본 날입니다. 
@@ -18,3 +15,5 @@ category: Unreal-Engine
 2. C++ 코드를 이용하여 구현하는 방법
 
 두 가지를 통해 캐릭터를 구현해봤습니다.
+
+---
